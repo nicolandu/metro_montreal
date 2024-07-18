@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22in"
+   height="22in"
+   viewBox="0 0 558.8 558.8"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="metro_montreal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2"
+     inkscape:cx="1387.75"
+     inkscape:cy="1624"
+     inkscape:window-width="1890"
+     inkscape:window-height="991"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4504"
+       units="in"
+       spacingx="12.7"
+       spacingy="12.7"
+       dotted="false"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="1488"
+       y="1776"
+       width="96"
+       height="48"
+       id="rect436" />
+    <rect
+       x="1488"
+       y="1776"
+       width="384"
+       height="192"
+       id="rect430" />
+    <rect
+       x="1344"
+       y="1584"
+       width="144"
+       height="96"
+       id="rect39616" />
+    <rect
+       x="1344"
+       y="1680"
+       width="48"
+       height="96"
+       id="rect39610" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect31627"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,6,0,1 @ F,0,0,1,0,6,0,1 @ F,0,0,1,0,6,0,1 @ F,0,0,1,0,6,0,1"
+       unit="mm"
+       method="arc"
+       mode="F"
+       radius="6"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="false"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       id="linearGradient11929"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#e87722;stop-opacity:1;"
+         offset="0"
+         id="stop11925" />
+      <stop
+         style="stop-color:#e87722;stop-opacity:0;"
+         offset="1"
+         id="stop11927" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Metro">
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffd200;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000;stop-opacity:1"
+       d="m 450.85,387.35 -60.706,0 -14.094,-14.1"
+       id="path31692"
+       sodipodi:nodetypes="ccc"
+       inkscape:label="Jaune" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e87722;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 177.8,215.9 h 50.8 l 177.8,177.8 -127,127 -165.1,-165.1"
+       id="path4560"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="Orange" />
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#7dc647;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000;stop-opacity:1"
+       d="M 368.3,469.9 317.5,419.1"
+       id="path38085"
+       inkscape:label="REM"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#009639;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000;stop-opacity:1"
+       d="m 317.5,584.19999 25.4,-25.4 -76.2,-76.19999 127,-127"
+       id="path12034"
+       sodipodi:nodetypes="ccc"
+       inkscape:label="Verte" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Metro stations">
+    <ellipse
+       style="fill:#fefefe;fill-opacity:1;stroke:#e87722;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path6996"
+       cx="177.8"
+       cy="215.89999"
+       rx="4.2246022"
+       ry="4.2246041" />
+    <ellipse
+       style="fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.9162;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path6996-3"
+       cx="203.2"
+       cy="215.89999"
+       rx="2.25"
+       ry="2.2500012"
+       inkscape:transform-center-x="4.1856773"
+       inkscape:transform-center-y="-5.2094237" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path6996-3"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11424"
+       transform="translate(25.400003)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11424"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11426"
+       transform="translate(25.4,25.400006)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11426"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11428"
+       transform="translate(12.7,12.7)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11428"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11430"
+       transform="translate(12.7,12.7)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11430"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11432"
+       transform="translate(12.7,12.7)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11432"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11469"
+       transform="translate(12.7,12.7)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11469"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11471"
+       transform="translate(12.7,12.7)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11471"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11473"
+       transform="translate(12.7,12.7)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11473"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11475"
+       transform="translate(12.7,12.7)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11475"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11477"
+       transform="translate(12.7,12.7)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11479"
+       transform="translate(12.7,12.7)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11894"
+       transform="translate(12.7,12.7)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11937"
+       transform="translate(38.1,63.5)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11939"
+       transform="translate(25.4,76.2)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11941"
+       transform="translate(12.7,88.9)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11945"
+       transform="translate(-25.4,127)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11947"
+       transform="translate(-38.1,139.7)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use11949"
+       transform="translate(-50.8,152.4)" />
+    <ellipse
+       style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse30744"
+       cx="292.10001"
+       cy="508"
+       rx="5.5"
+       ry="5.5000019"
+       inkscape:transform-center-x="10.231628"
+       inkscape:transform-center-y="-12.734147" />
+    <path
+       style="font-variation-settings:normal;opacity:1;fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:1.81573;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000;stop-opacity:1"
+       id="rect31625"
+       width="12"
+       height="19"
+       x="523.85773"
+       y="-14.980268"
+       inkscape:path-effect="#path-effect31627"
+       d="m 529.85773,-14.980268 a 6,6 45 0 1 6,6.0000005 v 7 a 6,6 135 0 1 -6,6 6,6 45 0 1 -6,-6 v -7 a 6,6 135 0 1 6,-6.0000005 z"
+       sodipodi:type="rect"
+       inkscape:transform-center-y="2.4908575"
+       inkscape:transform-center-x="2.4588738"
+       transform="rotate(45)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use35688"
+       transform="translate(-76.2,127)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use35690"
+       transform="translate(-63.5,114.3)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use35692"
+       transform="translate(-50.8,101.6)" />
+    <path
+       id="use35692-6"
+       style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0.9162;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="4.1856773"
+       inkscape:transform-center-y="-5.2094237"
+       d="M 330.2 416.85001 A 2.25 2.2500012 0 0 0 327.95001 419.1 L 327.95001 431.8 A 2.25 2.2500012 0 0 0 330.2 434.04999 A 2.25 2.2500012 0 0 0 332.44999 431.8 L 332.44999 419.1 A 2.25 2.2500012 0 0 0 330.2 416.85001 z " />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use35694"
+       transform="translate(-12.7,63.5)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use35696"
+       transform="translate(5.1757738e-8,50.8)" />
+    <path
+       id="use35698-6-0"
+       style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-0.00981"
+       inkscape:transform-center-y="-6.215135"
+       d="m 342.90981,459.46947 a 2.25,2.2500012 0 0 0 2.24999,-2.24999 2.25,2.2500012 0 0 0 -1.25005,-2.01486 v -8.95295 a 2,2.000001 0 0 0 0.99994,-1.73219 2,2.000001 0 0 0 -1.99988,-1.99988 2,2.000001 0 0 0 -1.99988,1.99988 2,2.000001 0 0 0 0.99994,1.73168 v 8.95346 a 2.25,2.2500012 0 0 0 -1.25005,2.01486 2.25,2.2500012 0 0 0 2.24999,2.24999 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.20244px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="-68.414574"
+       y="558.59888"
+       id="text996"
+       transform="rotate(-45)"><tspan
+         sodipodi:role="line"
+         id="tspan994"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20244px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="-68.414574"
+         y="558.59888">Gare Centrale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;font-variant-ligatures:no-contextual;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916001;stroke-linecap:round;stop-color:#000000"
+       x="390.74725"
+       y="370.21771"
+       id="text3384"><tspan
+         sodipodi:role="line"
+         id="tspan3382"
+         style="font-size:6.35px;stroke-width:0.916"
+         x="390.74725"
+         y="370.21771">Berri-UQAM</tspan></text>
+  </g>
+</svg>
