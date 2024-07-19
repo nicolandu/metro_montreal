@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.033244"
-     inkscape:cx="813.45744"
-     inkscape:cy="1470.1271"
+     inkscape:cx="1676.2739"
+     inkscape:cy="1112.9994"
      inkscape:window-width="1890"
      inkscape:window-height="991"
      inkscape:window-x="1095"
@@ -124,9 +124,9 @@
        sodipodi:nodetypes="cc" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#009639;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000;stop-opacity:1"
-       d="m 317.5,584.19999 25.4,-25.4 -76.2,-76.19999 127,-127"
+       d="m 317.5,584.19999 25.4,-25.4 L 266.7,482.6 431.8,317.5 419.1,304.8 457.2,266.7 444.5,254 495.3,203.2"
        id="path12034"
-       sodipodi:nodetypes="ccc"
+       sodipodi:nodetypes="cccc"
        inkscape:label="Verte" />
     <path
        style="display:inline;fill:none;stroke:#0075be;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000;stroke-dasharray:none"
@@ -525,8 +525,87 @@
        inkscape:transform-center-x="3.2865385"
        inkscape:transform-center-y="-4.0903623"
        id="use63368"
-       transform="matrix(0.66666667,0,0,0.66666631,16.933332,127.00013)"
+       transform="matrix(0.66666667,0,0,0.66666631,4.2333321,114.30013)"
        style="stroke-width:1.5" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use946"
+       transform="translate(76.2,-25.399987)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use948"
+       transform="translate(63.5,-12.699987)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use950"
+       transform="translate(50.8,1.2207031e-5)" />
+    <ellipse
+       style="fill:#fefefe;fill-opacity:1;stroke:#0075be;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse970"
+       cx="342.89999"
+       cy="254"
+       rx="4.2246022"
+       ry="4.2246041" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use1802"
+       transform="translate(-38.1,-63.499988)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use1910"
+       transform="translate(-25.4,-76.199988)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use1970"
+       transform="translate(63.5,-38.099988)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use1976"
+       transform="translate(76.2,-50.799988)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use1982"
+       transform="translate(88.9,-63.499988)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="4.9298044"
+       inkscape:transform-center-y="-6.1355505"
+       id="use1988"
+       transform="translate(101.6,-76.199988)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1045,14 +1124,14 @@
     <text
        xml:space="preserve"
        style="font-size:5.20244px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="248.83847"
-       y="358.06302"
+       x="236.13847"
+       y="345.36301"
        id="text63372"><tspan
          sodipodi:role="line"
          id="tspan63370"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20244px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="248.83847"
-         y="358.06302">Canora</tspan></text>
+         x="236.13847"
+         y="345.36301">Canora</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.20244px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
@@ -1075,5 +1154,104 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20244px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
          x="287.6535"
          y="344.18649">Acadie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="412.00763"
+       y="347.43549"
+       id="text954"><tspan
+         sodipodi:role="line"
+         id="tspan952"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="412.00763"
+         y="347.43549">Beaudry</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="425.11194"
+       y="335.29996"
+       id="text958"><tspan
+         sodipodi:role="line"
+         id="tspan956"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="425.11194"
+         y="335.29996">Papineau</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="437.9368"
+       y="322.06412"
+       id="text962"><tspan
+         sodipodi:role="line"
+         id="tspan960"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="437.9368"
+         y="322.06412">Frontenac</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="323.10764"
+       y="283.93549"
+       id="text1806"><tspan
+         sodipodi:role="line"
+         id="tspan1804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="323.10764"
+         y="283.93549">Fabre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="336.21194"
+       y="271.79996"
+       id="text1914"><tspan
+         sodipodi:role="line"
+         id="tspan1912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="336.21194"
+         y="271.79996">D'Iberville</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="427.35349"
+       y="307.24741"
+       id="text1974"><tspan
+         sodipodi:role="line"
+         id="tspan1972"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="427.35349"
+         y="307.24741">Préfontaine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="437.9368"
+       y="296.66412"
+       id="text1980"><tspan
+         sodipodi:role="line"
+         id="tspan1978"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="437.9368"
+         y="296.66412">Joliette</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="450.63681"
+       y="283.96411"
+       id="text1986"><tspan
+         sodipodi:role="line"
+         id="tspan1984"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="450.63681"
+         y="283.96411">Pie-IX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="463.33682"
+       y="271.2641"
+       id="text1992"><tspan
+         sodipodi:role="line"
+         id="tspan1990"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="463.33682"
+         y="271.2641">Viau</tspan></text>
   </g>
 </svg>
