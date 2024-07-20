@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="25in"
+   width="36.25in"
    height="30in"
-   viewBox="0 0 635 762"
+   viewBox="0 0 920.75 762"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.2167426"
-     inkscape:cx="1067.6046"
-     inkscape:cy="1465.388"
+     inkscape:zoom="0.43018347"
+     inkscape:cx="1808.5307"
+     inkscape:cy="1624.8881"
      inkscape:window-width="1887"
      inkscape:window-height="991"
      inkscape:window-x="1097"
@@ -42,23 +42,142 @@
        spacingx="6.35"
        spacingy="6.35"
        dotted="false"
-       originx="0"
+       originx="285.75"
        originy="0" />
     <sodipodi:guide
-       position="323.85,295.275"
-       orientation="0.70710678,-0.70710678"
-       id="guide12677"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,134,229)" />
-    <sodipodi:guide
-       position="261.74827,277.72479"
+       position="547.49827,277.72479"
        orientation="0,-1"
        id="guide14678"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="537.52677,211.06751"
+       orientation="0,1"
+       id="guide7390"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9550"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9548"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9546"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7392"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7388"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.556,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7386"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7384"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect6786"
@@ -115,7 +234,7 @@
        id="path-effect14689"
        is_visible="true"
        lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,58.82521,0,1 @ F,0,0,1,0,8.9802561,0,1 @ F,0,0,1,0,0,0,1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,58.82521,0,1 @ F,0,0,1,0,8.9802561,0,1 @ F,0,1,1,0,8.9802561,0,1 @ F,0,0,1,0,0,0,1"
        unit="px"
        method="auto"
        mode="F"
@@ -201,37 +320,56 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Metro">
+     inkscape:label="Metro"
+     transform="translate(285.75)">
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffd200;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000;stop-opacity:1"
-       d="m 376.05,373.25 14.094,14.1 H 450.85 L 469.9,368.3"
+       d="m 376.05,373.25 11.58006,11.58499 A 8.5823604,8.5823604 22.506097 0 0 393.7,387.35 h 49.2125 a 19.16282,19.16282 157.5 0 0 13.55016,-5.61266 L 469.9,368.3"
        id="path31692"
        sodipodi:nodetypes="cccc"
-       inkscape:label="Jaune" />
+       inkscape:label="Jaune"
+       inkscape:path-effect="#path-effect7388"
+       inkscape:original-d="m 376.05,373.25 14.094,14.1 H 450.85 L 469.9,368.3" />
     <path
        style="fill:none;fill-opacity:1;stroke:#e87722;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m 158.75,222.25 h 76.2 L 406.4,393.7 279.4,520.7 139.7,381"
+       d="m 158.75,222.25 h 68.2625 a 19.16282,19.16282 22.5 0 1 13.55016,5.61266 l 160.22468,160.22468 a 7.9375,7.9375 90 0 1 0,11.22532 L 285.01266,515.08734 a 7.9375,7.9375 0 0 1 -11.22532,0 L 139.7,381"
        id="path4560"
        sodipodi:nodetypes="ccccc"
-       inkscape:label="Orange" />
+       inkscape:label="Orange"
+       inkscape:path-effect="#path-effect7392"
+       inkscape:original-d="m 158.75,222.25 h 76.2 L 406.4,393.7 279.4,520.7 139.7,381" />
+    <path
+       style="display:inline;fill:none;stroke:#7dc647;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.384;stroke-opacity:1;stop-color:#000000"
+       d="m 120.65,292.1 h -4.7625 a 19.16282,19.16282 157.5 0 0 -13.55016,5.61266 L 56.41266,343.63734 A 19.16282,19.16282 157.5 0 1 42.8625,349.25 H -57.15"
+       id="path8910"
+       inkscape:label="REM Anse-a-l'Orme"
+       sodipodi:nodetypes="cccc"
+       inkscape:path-effect="#path-effect9550"
+       inkscape:original-d="m 120.65,292.1 h -12.7 L 50.8,349.25 H -57.15" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#7dc647;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000;stop-opacity:1"
-       d="M 431.8,533.4 203.2,304.8"
+       d="M 431.8,533.4 196.11266,297.71266 A 19.16282,19.16282 22.5 0 0 182.5625,292.1 H 58.7375 A 19.16282,19.16282 22.5 0 1 45.18734,286.48734 L 6.35,247.65"
        id="path38085"
        inkscape:label="REM"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:path-effect="#path-effect9548"
+       inkscape:original-d="M 431.8,533.4 190.5,292.1 H 50.8 L 6.35,247.65" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#009639;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000;stop-opacity:1"
-       d="m 495.3,203.2 -50.8,50.8 12.7,12.7 -38.1,38.1 12.7,12.7 -165.1,165.1 38.1,38.1 -25.4,25.4 H 177.8"
+       d="m 495.3,203.2 -45.18734,45.18734 a 7.9375,7.9375 90 0 0 0,11.22532 l 1.47468,1.47468 a 7.9375,7.9375 90 0 1 0,11.22532 l -26.87468,26.87468 a 7.9375,7.9375 90 0 0 0,11.22532 l 1.47468,1.47468 a 7.9375,7.9375 90 0 1 0,11.22532 L 272.31266,476.98734 a 7.9375,7.9375 90 0 0 0,11.22532 l 26.87468,26.87468 a 7.9375,7.9375 90 0 1 0,11.22532 l -14.17468,14.17468 A 19.16282,19.16282 157.5 0 1 271.4625,546.1 H 177.8"
        id="path12034"
        sodipodi:nodetypes="cccccccc"
-       inkscape:label="Verte" />
+       inkscape:label="Verte"
+       inkscape:path-effect="#path-effect7386"
+       inkscape:original-d="m 495.3,203.2 -50.8,50.8 12.7,12.7 -38.1,38.1 12.7,12.7 -165.1,165.1 38.1,38.1 -25.4,25.4 H 177.8" />
     <path
        style="display:inline;fill:none;stroke:#0075be;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-       d="M 215.9,457.2 304.8,368.3 266.7,330.2 342.9,254"
+       d="m 215.9,457.2 83.28734,-83.28734 a 7.9375,7.9375 90 0 0 0,-11.22532 l -26.87468,-26.87468 a 7.9375,7.9375 90 0 1 0,-11.22532 L 342.9,254"
        id="path41863"
        inkscape:label="Bleue"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccc"
+       inkscape:path-effect="#path-effect7384"
+       inkscape:original-d="M 215.9,457.2 304.8,368.3 266.7,330.2 342.9,254" />
     <path
        id="path12672"
        style="display:inline;fill:none;stroke:#52bfb5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
@@ -246,10 +384,10 @@
        inkscape:label="exo12"
        inkscape:transform-center-x="6.6433373"
        inkscape:transform-center-y="-0.7238962"
-       d="m 325.76384,462.69014 -21.58507,21.58507 H 254 m 0,-1e-5 H 184.15 A 24.366199,24.366199 67.500001 0 1 166.9205,442.6795 L 279.4,330.2 a 8.9802558,8.9802558 90.000001 0 0 0,-12.7 l -88.9,-88.9"
+       d="m 325.76384,462.69014 -21.58507,21.58507 H 254 m 0,-1e-5 H 184.15 A 24.366199,24.366199 67.500001 0 1 166.9205,442.6795 L 279.4,330.2 a 8.9802558,8.9802558 90.000001 0 0 0,-12.7 l -69.85,-69.85 a 21.680256,21.680256 67.5 0 1 -6.35,-15.33026 l 0,-35.46974"
        inkscape:path-effect="#path-effect14689"
-       inkscape:original-d="m 325.76384,462.69014 -21.58507,21.58507 H 254 m 0,-1e-5 H 125.32479 L 285.75,323.85 190.5,228.6"
-       sodipodi:nodetypes="cccccc" />
+       inkscape:original-d="m 325.76384,462.69014 -21.58507,21.58507 H 254 m 0,-1e-5 H 125.32479 L 285.75,323.85 203.2,241.3 v -44.45"
+       sodipodi:nodetypes="cccccccc" />
     <path
        id="path9758"
        style="display:inline;fill:none;stroke:#ff5f7b;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
@@ -270,12 +408,19 @@
        d="M 342.9,444.49999 438.15,444.5 508,387.35"
        id="path6790"
        sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#7dc647;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.384;stroke-opacity:1;stop-color:#000000"
+       d="m 88.899999,311.15 -13.43734,13.43734 a 19.16282,19.16282 112.5 0 0 -5.61266,13.55016 v 93.66249"
+       id="path9544"
+       inkscape:path-effect="#path-effect9546"
+       inkscape:original-d="m 88.899999,311.15 -19.05,19.05 v 101.59999" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Metro stations"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(285.75)">
     <ellipse
        style="fill:#fefefe;fill-opacity:1;stroke:#e87722;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="path6996"
@@ -286,8 +431,8 @@
     <ellipse
        style="fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.9162;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="use11424"
-       cx="234.95"
-       cy="222.25"
+       cx="234.34579"
+       cy="223.70868"
        rx="2.25"
        ry="2.2500012"
        inkscape:transform-center-x="4.1856773"
@@ -299,7 +444,7 @@
        inkscape:transform-center-x="4.9298044"
        inkscape:transform-center-y="-6.1355505"
        id="use11426"
-       transform="translate(19.050012,19.050013)" />
+       transform="translate(19.654215,17.59133)" />
     <ellipse
        style="fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.9162;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="use11430"
@@ -489,7 +634,7 @@
        inkscape:transform-center-x="4.9298044"
        inkscape:transform-center-y="-6.1355505"
        id="use1649"
-       transform="translate(95.25,44.450012)" />
+       transform="translate(94.645794,42.991329)" />
     <ellipse
        style="fill:#fefefe;fill-opacity:1;stroke:#ffd200;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse1823"
@@ -569,7 +714,7 @@
        style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0.9162;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        inkscape:transform-center-x="4.1856773"
        inkscape:transform-center-y="-5.2094237"
-       d="m 254,481.08042 c -1.24263,0 -2.24999,1.00736 -2.24999,2.24999 l 0,11.83628 c 0,1.24263 1.00736,2.24998 2.24999,2.24999 1.24263,-10e-6 2.24999,-1.00736 2.24999,-2.24999 l 0,-11.83628 c 0,-1.24263 -1.00736,-2.24999 -2.24999,-2.24999 z"
+       d="m 254,481.08042 c -1.24263,0 -2.24999,1.00736 -2.24999,2.24999 v 11.83628 c 0,1.24263 1.00736,2.24998 2.24999,2.24999 1.24263,-10e-6 2.24999,-1.00736 2.24999,-2.24999 v -11.83628 c 0,-1.24263 -1.00736,-2.24999 -2.24999,-2.24999 z"
        sodipodi:nodetypes="sssssss" />
     <ellipse
        style="fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0.916004;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -627,7 +772,7 @@
        inkscape:transform-center-x="4.9298044"
        inkscape:transform-center-y="-6.1355505"
        id="use55064"
-       transform="translate(-38.1,38.100012)" />
+       transform="translate(-41.38782,38.100012)" />
     <use
        x="0"
        y="0"
@@ -635,7 +780,7 @@
        inkscape:transform-center-x="4.9298044"
        inkscape:transform-center-y="-6.1355505"
        id="use946"
-       transform="translate(76.2,-25.399987)" />
+       transform="translate(72.91218,-25.399987)" />
     <use
        x="0"
        y="0"
@@ -682,7 +827,7 @@
        inkscape:transform-center-x="4.9298044"
        inkscape:transform-center-y="-6.1355505"
        id="use1970"
-       transform="translate(63.5,-38.099988)" />
+       transform="translate(66.78782,-38.099988)" />
     <use
        x="0"
        y="0"
@@ -707,7 +852,7 @@
        inkscape:transform-center-x="4.9298044"
        inkscape:transform-center-y="-6.1355505"
        id="use1988"
-       transform="translate(101.6,-76.199988)" />
+       transform="translate(98.31218,-76.199988)" />
     <g
        id="g3753">
       <path
@@ -740,7 +885,7 @@
        inkscape:transform-center-x="4.9298044"
        inkscape:transform-center-y="-6.1355505"
        id="use3755"
-       transform="translate(88.9,-88.899988)" />
+       transform="translate(92.18782,-88.899988)" />
     <use
        x="0"
        y="0"
@@ -789,7 +934,7 @@
        inkscape:transform-center-x="4.9298044"
        inkscape:transform-center-y="-6.1355505"
        id="use4626"
-       transform="translate(-50.8,177.80001)" />
+       transform="translate(-54.08782,177.80001)" />
     <use
        x="0"
        y="0"
@@ -832,15 +977,7 @@
        inkscape:transform-center-x="4.9298044"
        inkscape:transform-center-y="-6.1355505"
        id="use802"
-       transform="translate(-76.2,203.20001)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use11477"
-       inkscape:transform-center-x="4.9298044"
-       inkscape:transform-center-y="-6.1355505"
-       id="use910"
-       transform="translate(-76.2,203.20001)" />
+       transform="translate(-76.804206,201.74133)" />
     <use
        x="0"
        y="0"
@@ -895,7 +1032,7 @@
     <ellipse
        style="display:inline;fill:#fefefe;fill-opacity:1;stroke:#000000;stroke-width:0.9162;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse4807"
-       cx="184.14999"
+       cx="203.2"
        cy="222.25"
        rx="2.25"
        ry="2.2500012"
@@ -986,12 +1123,88 @@
          inkscape:transform-center-x="4.1856773"
          inkscape:transform-center-y="-5.2094237" />
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="3.2865385"
+       inkscape:transform-center-y="-4.0903623"
+       id="use7378"
+       transform="matrix(0.66666667,0,0,0.66666631,-27.516668,82.55013)"
+       style="stroke-width:1.5" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="3.2865354"
+       inkscape:transform-center-y="-4.0903654"
+       id="use7394"
+       transform="matrix(0.66666667,0,0,0.66666667,-78.316662,63.50004)"
+       style="stroke-width:1.5" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="3.2865354"
+       inkscape:transform-center-y="-4.0903654"
+       id="use8904"
+       transform="matrix(0.66666667,0,0,0.66666667,-116.41666,63.500018)"
+       style="stroke-width:1.5" />
+    <circle
+       style="fill:#fefefe;fill-opacity:1;stroke:#7dc647;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle9552"
+       cx="69.849998"
+       cy="431.79999"
+       r="3.7244999" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="3.2865385"
+       inkscape:transform-center-y="-4.0903623"
+       id="use9662"
+       transform="matrix(0.66666667,0,0,0.66666631,-167.21667,165.10013)"
+       style="stroke-width:1.5" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="3.2865354"
+       inkscape:transform-center-y="-4.0903654"
+       id="use10535"
+       transform="matrix(0.66666667,0,0,0.66666667,-200.46667,120.65001)"
+       style="stroke-width:1.5" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="3.2865354"
+       inkscape:transform-center-y="-4.0903654"
+       id="use10541"
+       transform="matrix(0.66666667,0,0,0.66666667,-230.71667,120.65001)"
+       style="stroke-width:1.5" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use11477"
+       inkscape:transform-center-x="3.2865354"
+       inkscape:transform-center-y="-4.0903654"
+       id="use10547"
+       transform="matrix(0.66666667,0,0,0.66666667,-262.46667,120.65001)"
+       style="stroke-width:1.5" />
+    <circle
+       style="fill:#fefefe;fill-opacity:1;stroke:#7dc647;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="circle10873"
+       cx="-57.150002"
+       cy="349.25"
+       r="3.7244999" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Text"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(285.75)">
     <text
        xml:space="preserve"
        style="font-size:5.20244px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
@@ -1303,27 +1516,25 @@
     <text
        xml:space="preserve"
        style="font-size:5.20244px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="13.23826"
-       y="323.98233"
-       id="text1533"
-       transform="rotate(-45)"><tspan
+       x="226.93236"
+       y="231.55446"
+       id="text1533"><tspan
          sodipodi:role="line"
          id="tspan1531"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20244px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="13.23826"
-         y="323.98233">Cartier</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20244px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="226.93236"
+         y="231.55446">Cartier</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.20244px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="-21.918806"
-       y="288.06134"
-       id="text1537"
-       transform="rotate(-45)"><tspan
+       x="222.24019"
+       y="216.76659"
+       id="text1537"><tspan
          sodipodi:role="line"
          id="tspan1535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20244px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="-21.918806"
-         y="288.06134">De la Concorde</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20244px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="222.24019"
+         y="216.76659">De la Concorde</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;font-variant-ligatures:no-contextual;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916001;stroke-linecap:round;stop-color:#000000"
@@ -1403,27 +1614,27 @@
     <text
        xml:space="preserve"
        style="font-size:6.35px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="437.73734"
-       y="535.74951"
+       x="438.11835"
+       y="535.51666"
        id="text6239"
        inkscape:transform-center-x="7.4342238"
        inkscape:transform-center-y="6.5036237"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="437.73734"
-         y="535.74951"
+         x="438.11835"
+         y="535.51666"
          id="tspan5163">A1 | BROSSARD</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="453.28256"
-       y="394.53137"
+       x="452.67834"
+       y="393.07269"
        id="text8779"><tspan
          sodipodi:role="line"
          id="tspan8777"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="453.28256"
-         y="394.53137">Jean-Drapeau</tspan></text>
+         x="452.67834"
+         y="393.07269">Jean-Drapeau</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.20244px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
@@ -1525,13 +1736,13 @@
     <text
        xml:space="preserve"
        style="font-size:5.20244px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="310.81195"
+       x="307.52414"
        y="371.14801"
        id="text63536"><tspan
          sodipodi:role="line"
          id="tspan63534"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20244px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="310.81195"
+         x="307.52414"
          y="371.14801">Outremont</tspan></text>
     <text
        xml:space="preserve"
@@ -1569,13 +1780,13 @@
     <text
        xml:space="preserve"
        style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="437.9368"
+       x="434.64899"
        y="322.06412"
        id="text962"><tspan
          sodipodi:role="line"
          id="tspan960"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="437.9368"
+         x="434.64899"
          y="322.06412">Frontenac</tspan></text>
     <text
        xml:space="preserve"
@@ -1602,13 +1813,13 @@
     <text
        xml:space="preserve"
        style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="427.35349"
+       x="430.6413"
        y="307.24741"
        id="text1974"><tspan
          sodipodi:role="line"
          id="tspan1972"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="427.35349"
+         x="430.6413"
          y="307.24741">Préfontaine</tspan></text>
     <text
        xml:space="preserve"
@@ -1635,24 +1846,24 @@
     <text
        xml:space="preserve"
        style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="463.33682"
+       x="460.04901"
        y="271.2641"
        id="text1992"><tspan
          sodipodi:role="line"
          id="tspan1990"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="463.33682"
+         x="460.04901"
          y="271.2641">Viau</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="452.75348"
+       x="456.04129"
        y="256.44739"
        id="text3759"><tspan
          sodipodi:role="line"
          id="tspan3757"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="452.75348"
+         x="456.04129"
          y="256.44739">Assomption</tspan></text>
     <text
        xml:space="preserve"
@@ -1739,13 +1950,13 @@
     <text
        xml:space="preserve"
        style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="310.9368"
+       x="307.64899"
        y="525.2641"
        id="text4630"><tspan
          sodipodi:role="line"
          id="tspan4628"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="310.9368"
+         x="307.64899"
          y="525.2641">Charlevoix</tspan></text>
     <text
        xml:space="preserve"
@@ -1806,15 +2017,15 @@
     <text
        xml:space="preserve"
        style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
-       x="-194.54478"
-       y="586.92731"
+       x="-194.64728"
+       y="586.17529"
        id="text914"
        transform="rotate(-45)"><tspan
          sodipodi:role="line"
          id="tspan912"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
-         x="-194.54478"
-         y="586.92731">De l'Église</tspan></text>
+         x="-194.64728"
+         y="586.17529">De l'Église</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
@@ -1916,5 +2127,113 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20244px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
          x="171.74643"
          y="424.19989">Namur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20244px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="204.38847"
+       y="313.61301"
+       id="text7382"><tspan
+         sodipodi:role="line"
+         id="tspan7380"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20244px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="204.38847"
+         y="313.61301">Du Ruisseau</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="158.68237"
+       y="287.13904"
+       id="text7398"><tspan
+         sodipodi:role="line"
+         id="tspan7396"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="158.68237"
+         y="287.13904">Montpellier</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="120.58238"
+       y="287.13904"
+       id="text8908"><tspan
+         sodipodi:role="line"
+         id="tspan8906"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="120.58238"
+         y="287.13904">Bois-Franc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="63.823845"
+       y="430.98648"
+       id="text9556"
+       inkscape:transform-center-x="7.4342238"
+       inkscape:transform-center-y="6.5036237"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="63.823845"
+         y="430.98648"
+         id="tspan9554">A2 | YUL-AÉROPORT-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="63.823849"
+         y="439.22812"
+         id="tspan9660">MONTRÉAL-TRUDEAU🛧</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20244px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="64.927696"
+       y="396.12546"
+       id="text9666"><tspan
+         sodipodi:role="line"
+         id="tspan9664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20244px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="64.927696"
+         y="396.12546">Marie-Curie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="36.532375"
+       y="344.28903"
+       id="text10539"><tspan
+         sodipodi:role="line"
+         id="tspan10537"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="36.532375"
+         y="344.28903">Des Sources</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="4.8291941"
+       y="357.5249"
+       id="text10545"><tspan
+         sodipodi:role="line"
+         id="tspan10543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="4.8291941"
+         y="357.5249">Fairview-Pointe-Claire</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.20243px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="-25.467613"
+       y="344.28903"
+       id="text10551"><tspan
+         sodipodi:role="line"
+         id="tspan10549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.20243px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="-25.467613"
+         y="344.28903">Kirkland</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;font-family:'FiraCode Nerd Font Mono';-inkscape-font-specification:'FiraCode Nerd Font Mono, Normal';font-variant-ligatures:no-contextual;fill:#ffffff;stroke:#000000;stroke-width:0.916;stroke-linecap:round;stop-color:#000000"
+       x="-63.09996"
+       y="351.26611"
+       id="text10879"
+       inkscape:transform-center-x="7.4342238"
+       inkscape:transform-center-y="6.5036237"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:TransitWeb-BoldW03-Regular;-inkscape-font-specification:TransitWeb-BoldW03-Regular;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.916"
+         x="-63.09996"
+         y="351.26611"
+         id="tspan10877">A3 | ANSE-À-L'ORME</tspan></text>
   </g>
 </svg>
